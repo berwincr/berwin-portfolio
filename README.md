@@ -1,5 +1,5 @@
 
-# Berwin C R — Personal Portfolio
+# Berwin C R - Personal Portfolio
 
 <p align="center">
   <strong>B.Tech Information Technology @ CEG, Anna University</strong>
@@ -52,10 +52,10 @@ This portfolio showcases my projects, technical skills, achievements, certificat
 ## Certifications & Achievements
 
 - Google Cloud Engineering
-- Python for Data Science — NPTEL
-- Python Flask — GUVI
-- Google AI Essentials — Coursera
-- Event Coordinator — CEG Tech Forum
+- Python for Data Science - NPTEL
+- Python Flask - GUVI
+- Google AI Essentials - Coursera
+- Event Coordinator - CEG Tech Forum
 - NSS Volunteer
 
 
