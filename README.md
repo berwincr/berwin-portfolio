@@ -1,16 +1,75 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+# Berwin C R — Personal Portfolio
 
-Currently, two official plugins are available:
+<p align="center">
+  <strong>B.Tech Information Technology @ CEG, Anna University</strong>
+  <br />
+  Software Developer | AI/ML Enthusiast
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<p align="center">
+  <a href="https://github.com/berwincr">GitHub</a> •
+  <a href="https://www.linkedin.com/in/berwin-cr/">LinkedIn</a> •
+  <a href="https://leetcode.com/u/Berwin_cr/">LeetCode</a>
+</p>
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## About
 
-## Expanding the Oxlint configuration
+Welcome to my personal portfolio!
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+I'm Berwin C R, a third-year Information Technology student at the College of Engineering, Guindy, Anna University. I'm passionate about software development, problem-solving, and exploring emerging technologies.
+
+This portfolio showcases my projects, technical skills, achievements, certifications, and ways to connect with me.
+
+## Built With
+
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
+- Lucide React
+
+## Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| MediGuide AI | AI-powered health education assistant with symptom tracking and medicine information. | React, FastAPI, MongoDB, Gemini |
+| Ledger | Expense tracking application with authentication and expense visualisation. | React, Node.js, Express, MongoDB |
+| Vidhai Seed Bank | Platform for managing and exploring seed-related information. | React, Flask, MySQL |
+| ShowTime | Movie ticket booking application with payment integration. | React, Java, Spring Boot, MySQL |
+
+## Technical Skills
+
+- **Languages:** C, C++, Python, Java, JavaScript, SQL
+- **Frontend:** HTML, CSS, React, Tailwind CSS
+- **Backend:** Node.js, Express.js, FastAPI, Flask
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **AI & Data:** NumPy, Pandas, Scikit-learn, Generative AI
+- **Tools:** Git, GitHub, VS Code, Postman, Google Cloud
+
+## Certifications & Achievements
+
+- Google Cloud Engineering
+- Python for Data Science — NPTEL
+- Python Flask — GUVI
+- Google AI Essentials — Coursera
+- Event Coordinator — CEG Tech Forum
+- NSS Volunteer
+
+
+## Connect With Me
+
+- **GitHub:** https://github.com/berwincr
+- **LinkedIn:** https://www.linkedin.com/in/berwin-cr/
+- **LeetCode:** https://leetcode.com/u/Berwin_cr/
+- **Email:** berwincr4028@gmail.com
+
+---
+
+<p align="center">
+  Designed and developed by <strong>Berwin C R</strong>
+  <br />
+  Exploring new technologies to build a better digital tomorrow.
+</p>
