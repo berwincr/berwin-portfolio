@@ -54,7 +54,7 @@ const Hero = () => {
   </a>
 
   <a
-    href="/resume.pdf"
+    href={`${import.meta.env.BASE_URL}resume.pdf`}
     download="Berwin_C_R_Resume.pdf"    
     className="inline-flex min-h-14 min-w-[220px] items-center justify-center whitespace-nowrap rounded-full border border-[#C9A8ED] bg-[#EDE1F7] !px-10 !py-4 text-base font-semibold !text-[#514078] shadow-sm transition-all duration-300 hover:-translate-y-1 hover:border-[#8054CC] hover:bg-[#C9A8ED] hover:shadow-md"
   >

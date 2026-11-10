@@ -30,7 +30,7 @@ const certifications = [
     title: "Python for Data Science",
     issuer: "NPTEL",
     description: "Python programming and data science foundations.",
-    pdf: "/certificates/python-data-science.pdf",
+    pdf: `${import.meta.env.BASE_URL}certificates/python-data-science.pdf`,
     icon: BookOpen,
     color: "#E9DDF8",
     accent: "#8054CC",
